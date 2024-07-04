@@ -30,7 +30,7 @@
 4. Use the "Reset" button to reset the stopwatch and clear all laps.
 
 ## Video:
-
+https://github.com/Rachittrivedi964/Prodigy_WD_02/assets/153116964/1988cbd4-c1e7-4dc5-b27d-f50e9ee22c6c
 
 ## Contribution:
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
